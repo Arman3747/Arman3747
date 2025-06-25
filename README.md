@@ -57,4 +57,7 @@ Feel free to reach out — I’m always open to discussing exciting opportunitie
 
 Email: dailyarman7@gmail.com
 
+- **Email**: dailyarman7@gmail.com
+- **Linkedin**: [LinkedIn](https://au.linkedin.com/in/fahim37)
+
 Let’s connect and build something great!
