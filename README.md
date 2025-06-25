@@ -1,6 +1,6 @@
 
 
-## <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi, I'm Fahim Arman
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi, I'm Fahim Arman
 
 I'm a Front-End Developer passionate about clean UI, responsive design, and continuous learning. I love building intuitive, user-friendly web applications and thrive on crafting dynamic interfaces using modern JavaScript frameworks — especially React.
 
@@ -44,14 +44,6 @@ I'm a Front-End Developer passionate about clean UI, responsive design, and cont
 ![](https://github-readme-stats.vercel.app/api?username=Arman3747&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Arman3747&theme=shadow_blue&hide_border=true)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=lobsters)](https://linkedin.com/in/fahim37)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3C2179?logo=pyg)](https://obvious-fortnight-8d0.notion.site/fahim-Website-deb036bb72a941d8ae37757f64e16332)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://instagram.com/fahimarman1/)
-
-
 # 📬 Contact: 
 Feel free to reach out — I’m always open to discussing exciting opportunities or collaborations.
 
@@ -61,3 +53,10 @@ Email: dailyarman7@gmail.com
 - **Linkedin**: [LinkedIn](https://au.linkedin.com/in/fahim37)
 
 Let’s connect and build something great!
+
+## 🌐 Where to find me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=lobsters)](https://linkedin.com/in/fahim37)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3C2179?logo=pyg)](https://obvious-fortnight-8d0.notion.site/fahim-Website-deb036bb72a941d8ae37757f64e16332)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://instagram.com/fahimarman1/)
