@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Fahim Arman
+## <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi, I'm Fahim Arman
 
 I'm a Front-End Developer passionate about clean UI, responsive design, and continuous learning. I love building intuitive, user-friendly web applications and thrive on crafting dynamic interfaces using modern JavaScript frameworks — especially React.
 
@@ -10,11 +10,10 @@ I'm a Front-End Developer passionate about clean UI, responsive design, and cont
 ### Programming Language: ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-333333?logo=css)
 
 
-### Front-End Frameworks & Libraries: ![React](https://img.shields.io/badge/React-333333?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs) ![React Router](https://img.shields.io/badge/React_Router-333333?logo=reactrouter) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-333333?logo=daisyui) ![Recharts](https://img.shields.io/badge/Recharts-333333?logo=chartdotjs) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-333333?logo=reacthookform) ![Leaflet](https://img.shields.io/badge/Leaflet-333333?logo=leaflet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap) ![Swiper](https://img.shields.io/badge/Swiper-333333?logo=swiper) ![Axios](https://img.shields.io/badge/Axios-333333?logo=axios) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-333333?logo=reactquery) ![Socket.IO](https://img.shields.io/badge/Socket.IO-333333?logo=socketdotio) ![Babel](https://img.shields.io/badge/Babel-333333?logo=babel)
+### Front-End Frameworks & Libraries: ![React](https://img.shields.io/badge/React-333333?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs) ![React Router](https://img.shields.io/badge/React_Router-333333?logo=reactrouter) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-333333?logo=daisyui) ![Recharts](https://img.shields.io/badge/Recharts-333333?logo=chartdotjs) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-333333?logo=reacthookform) ![Leaflet](https://img.shields.io/badge/Leaflet-333333?logo=leaflet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap) ![Swiper](https://img.shields.io/badge/Swiper-333333?logo=swiper) ![Axios](https://img.shields.io/badge/Axios-333333?logo=axios) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-333333?logo=reactquery) ![Socket.IO](https://img.shields.io/badge/Socket.IO-333333?logo=socketdotio) ![.ENV](https://img.shields.io/badge/.ENV-333333?logo=dotenv) ![Babel](https://img.shields.io/badge/Babel-333333?logo=babel)
 
 
-
-### Back-End Frameworks & Libraries: ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-333333?logo=express) ![JSON](https://img.shields.io/badge/JSON-333333?logo=json) ![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-333333?logo=jsonwebtokens) ![Nodemon](https://img.shields.io/badge/Nodemon-333333?logo=nodemon)
+### Back-End Frameworks & Libraries: ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-333333?logo=express) ![JSON](https://img.shields.io/badge/JSON-333333?logo=json) ![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-333333?logo=jsonwebtokens) ![Nodemon](https://img.shields.io/badge/Nodemon-333333?logo=nodemon) ![.ENV](https://img.shields.io/badge/.ENV-333333?logo=dotenv)
 
 
 ###  Database: ![MongoDB](https://img.shields.io/badge/MongoDB-333333?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-333333?logo=sqlite)
@@ -51,3 +50,11 @@ I'm a Front-End Developer passionate about clean UI, responsive design, and cont
 [![Portfolio](https://img.shields.io/badge/Portfolio-3C2179?logo=pyg)](https://obvious-fortnight-8d0.notion.site/fahim-Website-deb036bb72a941d8ae37757f64e16332)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://instagram.com/fahimarman1/)
+
+
+# 📬 Contact: 
+Feel free to reach out — I’m always open to discussing exciting opportunities or collaborations.
+
+Email: dailyarman7@gmail.com
+
+Let’s connect and build something great!
