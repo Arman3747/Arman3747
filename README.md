@@ -15,7 +15,24 @@ I'm a Front-End Developer passionate about clean UI, responsive design, and cont
 
 # 💻 Things I Code With:
 
-### Programming Language: [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://instagram.com/fahimarman1/) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+### Programming Language: ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-333333?logo=css)
+
+### Front-End Frameworks & Libraries: ![React](https://img.shields.io/badge/React-333333?logo=react) ![React Router](https://img.shields.io/badge/React_Router-333333?logo=reactrouter) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-333333?logo=daisyui) ![Recharts](https://img.shields.io/badge/Recharts-333333?logo=chartdotjs) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-333333?logo=reacthookform) ![Leaflet](https://img.shields.io/badge/Leaflet-333333?logo=leaflet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
+
+### Back-End & Database: 
+
+
+Node.js, Express.js, SQL, MongoDB
+
+
+
+Version Control:Git, GitHub
+Web Development Tools:Visual Studio Code, npm, Vite, Node.js, Chrome Developer Tools, Firebase
+
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
