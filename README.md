@@ -1,12 +1,8 @@
 
 
-## Hey! Nice to see you.
+## Hi, I'm Fahim Arman
 
-Welcome to my page!
-<br/>
-I'm Fahim Arman, Front-End Developer.
-
-
+I'm a Front-End Developer passionate about clean UI, responsive design, and continuous learning. I love building intuitive, user-friendly web applications and thrive on crafting dynamic interfaces using modern JavaScript frameworks — especially React.
 
 
 ## 🌐 Socials:
@@ -14,9 +10,13 @@ I'm Fahim Arman, Front-End Developer.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/37.Arman.Fahim) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahimarman1/)
 
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://instagram.com/fahimarman1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
 
 
-https://github.com/Arman3747
+
+
 https://obvious-fortnight-8d0.notion.site/fahim-Website-deb036bb72a941d8ae37757f64e16332
 
 # 💻 Tech Stack:
