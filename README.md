@@ -19,15 +19,13 @@ I'm a Front-End Developer passionate about clean UI, responsive design, and cont
 
 ### Front-End Frameworks & Libraries: ![React](https://img.shields.io/badge/React-333333?logo=react) ![React Router](https://img.shields.io/badge/React_Router-333333?logo=reactrouter) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-333333?logo=daisyui) ![Recharts](https://img.shields.io/badge/Recharts-333333?logo=chartdotjs) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-333333?logo=reacthookform) ![Leaflet](https://img.shields.io/badge/Leaflet-333333?logo=leaflet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
 
-### Back-End & Database: 
+### Back-End & Database: ![Node.js](https://img.shields.io/badge/Node.js-333333?logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-333333?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-333333?logo=sqlite)
 
 
-Node.js, Express.js, SQL, MongoDB
+### Version Control: ![Git](https://img.shields.io/badge/Git-333333?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
 
+### Web Development Tools: ![NPM](https://img.shields.io/badge/NPM-333333?logo=npm) ![Vite](https://img.shields.io/badge/Vite-333333?logo=vite) ![Chrome Dev Tool](https://img.shields.io/badge/Chrome_Dev_Tool-333333?logo=googlechrome) ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase)
 
-
-Version Control:Git, GitHub
-Web Development Tools:Visual Studio Code, npm, Vite, Node.js, Chrome Developer Tools, Firebase
 
 
 
