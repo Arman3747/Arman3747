@@ -1,6 +1,6 @@
 ![MERN](https://i.ibb.co/HDDP9kfB/MERN-removebg-preview.png)
 
-# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi, I'm Fahim Arman
+# <a href="https://fahim-arman.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi, I'm Fahim Arman
 
 I'm a Front-End Developer passionate about clean UI, responsive design, and continuous learning. I love building intuitive, user-friendly web applications and thrive on crafting dynamic interfaces using modern JavaScript frameworks — especially React.
 
