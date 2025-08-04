@@ -50,12 +50,13 @@ Feel free to reach out — I’m always open to discussing exciting opportunitie
 Email: dailyarman7@gmail.com
 
 - **Email**: dailyarman7@gmail.com
+- **Portfolio**: [Portfolio](https://fahim-arman.netlify.app/)
 - **Linkedin**: [LinkedIn](https://au.linkedin.com/in/fahim37)
 
 Let’s connect and build something great!
 
 ## 🌐 Where to find me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-06D6A9?logo=termius)](https://fahim-arman.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00df72?logo=termius)](https://fahim-arman.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=lobsters)](https://linkedin.com/in/fahim37)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
