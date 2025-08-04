@@ -22,7 +22,7 @@ I'm a Front-End Developer passionate about clean UI, responsive design, and cont
 ### Version Control: ![Git](https://img.shields.io/badge/Git-333333?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
 
 
-### Web Development Tools: ![NPM](https://img.shields.io/badge/NPM-333333?logo=npm) ![Vite](https://img.shields.io/badge/Vite-333333?logo=vite) ![Chrome Dev Tool](https://img.shields.io/badge/Chrome_Dev_Tool-333333?logo=googlechrome) ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase)
+### Web Development Tools: ![NPM](https://img.shields.io/badge/NPM-333333?logo=npm) ![Vite](https://img.shields.io/badge/Vite-333333?logo=vite) ![Chrome Dev Tool](https://img.shields.io/badge/Chrome_Dev_Tool-333333?logo=googlechrome) ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase) ![Postman](https://img.shields.io/badge/Postman-333333?logo=postman)
 
 
 ### Operating Systems: ![Windows OS](https://img.shields.io/badge/Windows_OS-333333?logo=windows) ![Linux](https://img.shields.io/badge/Linux-333333?logo=linux) ![Debian](https://img.shields.io/badge/Debian-333333?logo=debian) ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?logo=ubuntu) 
@@ -54,7 +54,7 @@ Feel free to reach out — I’m always open to discussing exciting opportunitie
 Let’s connect and build something great!
 
 ## 🌐 Where to find me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-00df72?logo=accenture)](https://fahim-arman.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=accenture)](https://fahim-arman.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=lobsters)](https://linkedin.com/in/fahim37)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
