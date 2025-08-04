@@ -57,6 +57,6 @@ Let’s connect and build something great!
 ## 🌐 Where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=lobsters)](https://linkedin.com/in/fahim37)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3C2179?logo=pyg)](https://obvious-fortnight-8d0.notion.site/fahim-Website-deb036bb72a941d8ae37757f64e16332)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3C2179?logo=pyg)](https://fahim-arman.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://instagram.com/fahimarman1/)
