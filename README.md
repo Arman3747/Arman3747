@@ -54,7 +54,7 @@ Feel free to reach out — I’m always open to discussing exciting opportunitie
 Let’s connect and build something great!
 
 ## 🌐 Where to find me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-00c950?logo=accenture)](https://fahim-arman.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=accenture)](https://fahim-arman.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=lobsters)](https://linkedin.com/in/fahim37)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/Arman3747)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook)](https://facebook.com/37.Arman.Fahim) 
