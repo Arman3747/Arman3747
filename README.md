@@ -1,4 +1,4 @@
-![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Hero_Github_02.png)
+![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Hero_Github_03.png)
 
 # <a href="https://fahim-arman.netlify.app/"><img src="https://github.com/Arman3747/Arman3747/blob/main/images/waving.gif?raw=true" width="5%"></a> Hi, I'm Fahim Arman
 
@@ -33,7 +33,13 @@ I'm a Front-End Developer passionate about building intuitive, responsive web ap
 ### Web Hosting & Deployment: ![Vercel](https://img.shields.io/badge/Vercel-333333?logo=vercel) ![Netlify](https://img.shields.io/badge/Netlify-333333?logo=netlify) ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase&logoColor=%23DD2C00)
 
 <br/>
-<br/>
+
+# 📌 Current Activities
+
+🚀 I am exploring **Next.js**  
+📝 I’m working on a **Blog website**  
+🤝 I’m looking to collaborate on **open source projects**  
+
 <br/>
 
 # 📊 GitHub Stats:
