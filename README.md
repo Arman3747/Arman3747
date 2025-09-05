@@ -1,4 +1,4 @@
-![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Hero_Github_03.png)
+![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Fahim_Arman_Hero_Github_04.png)
 
 # <a href="https://fahim-arman.netlify.app/"><img src="https://github.com/Arman3747/Arman3747/blob/main/images/waving.gif?raw=true" width="5%"></a> Hi, I'm Fahim Arman
 
