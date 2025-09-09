@@ -1,4 +1,4 @@
-![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Fahim_Arman_Hero_Github_04.png)
+![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Fahim_Arman_Hero_Github_05.png)
 
 # <a href="https://fahim-arman.netlify.app/"><img src="https://github.com/Arman3747/Arman3747/blob/main/images/waving.gif?raw=true" width="5%"></a> Hi, I'm Fahim Arman
 
@@ -52,7 +52,7 @@ I'm a Front-End Developer passionate about building intuitive, responsive web ap
 # 📬 Contact: 
 Feel free to reach out — I’m always open to discussing exciting opportunities or collaborations.
 
-- **Email**: dailyarman7@gmail.com
+- **Email**: Fahim.3761@gmail.com
 - **Portfolio**: [View my Portfolio](https://fahim-arman.netlify.app/)
 - **Linkedin**: [Connect with me on LinkedIn](https://au.linkedin.com/in/fahim37)
 
