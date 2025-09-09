@@ -2,7 +2,7 @@
 
 # <a href="https://fahim-arman.netlify.app/"><img src="https://github.com/Arman3747/Arman3747/blob/main/images/waving.gif?raw=true" width="5%"></a> Hi, I'm Fahim Arman
 
-I'm a Front-End Developer passionate about building intuitive, responsive web applications. Skilled in JavaScript, React, HTML5, CSS3, RESTful APIs, and Git, I enjoy solving problems and adapting to new challenges. I thrive in collaborative, fast-paced environments where I can contribute to creating clean and dynamic user experiences.
+I'm a MERN Stack Developer passionate about building intuitive, responsive web applications. Skilled in JavaScript, React, HTML5, CSS3, RESTful APIs, and Git, I enjoy solving problems and adapting to new challenges. I thrive in collaborative, fast-paced environments where I can contribute to creating clean and dynamic user experiences.
 
 # 💻 Things I Code With:
 
