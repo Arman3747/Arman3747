@@ -4,7 +4,7 @@
 
 Full Stack Developer (MERN & PERN) focused on building scalable, production-ready web applications. Experienced in JavaScript, TypeScript, React, Node.js, Express, MongoDB, and PostgreSQL, with a strong understanding of RESTful API design and modern UI development. Passionate about writing clean, maintainable code and delivering intuitive, high-performance user experiences in collaborative environments.
 
-```
+```javascript
 const developer = {
   title: "Full Stack JavaScript Developer",
   stack: ["MERN", "PERN"],
