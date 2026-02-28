@@ -22,7 +22,7 @@ const developer = {
     api: "RESTful Services"
   },
 
-  database: ["MongoDB", "PostgreSQL"],
+  database: ["MongoDB", "PostgreSQL", "Redis"],
 
   principles: [
     "Clean Code",
@@ -30,7 +30,7 @@ const developer = {
     "Performance Optimization"
   ],
 
-  mindset: "Problem Solver • Continuous Learner • Team Collaborator"
+  mindset: "Problem Solver & Continuous Learner & Team Collaborator"
 };
 
 ```
