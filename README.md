@@ -4,6 +4,37 @@
 
 Full Stack Developer (MERN & PERN) focused on building scalable, production-ready web applications. Experienced in JavaScript, TypeScript, React, Node.js, Express, MongoDB, and PostgreSQL, with a strong understanding of RESTful API design and modern UI development. Passionate about writing clean, maintainable code and delivering intuitive, high-performance user experiences in collaborative environments.
 
+```
+const developer = {
+  title: "Full Stack JavaScript Developer",
+  stack: ["MERN", "PERN"],
+
+  languages: ["JavaScript", "TypeScript", "SQL"],
+  
+  frontend: {
+    framework: ["React.js", "Next.js"],
+    styling: ["Tailwind CSS", "shadcn/ui"]
+  },
+
+  backend: {
+    runtime: "Node.js",
+    framework: "Express.js",
+    api: "RESTful Services"
+  },
+
+  database: ["MongoDB", "PostgreSQL"],
+
+  principles: [
+    "Clean Code",
+    "Scalable Architecture",
+    "Performance Optimization"
+  ],
+
+  mindset: "Problem Solver • Continuous Learner • Team Collaborator"
+};
+
+```
+
 # 💻 Things I Code With:
 
 ### Programming Language: ![typescript](https://img.shields.io/badge/TypeScript-333333?logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript) ![EJS](https://img.shields.io/badge/EJS-333333?logo=ejs) ![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-333333?logo=css)
