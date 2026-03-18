@@ -28,7 +28,7 @@ const developer = {
 
   stateManagement: ["Redux"],
 
-  ORM: ["Prisma", "Mongoose"],
+  ORM: ["Prisma"],
 };
 ```
 
