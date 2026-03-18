@@ -2,12 +2,14 @@
 
 # <a href="https://fahim-arman.netlify.app/"><img src="https://github.com/Arman3747/Arman3747/blob/main/images/waving.gif?raw=true" width="5%"></a> Hi, I'm Fahim Arman
 
-Full Stack Developer (MERN & PERN) focused on building scalable, production-ready web applications. Experienced in JavaScript, TypeScript, React, Node.js, Express, MongoDB, and PostgreSQL, with a strong understanding of RESTful API design and modern UI development. Passionate about writing clean, maintainable code and delivering intuitive, high-performance user experiences in collaborative environments.
+Full Stack Developer (MERN, PERN & Next.js) focused on building scalable, production-ready web applications. Experienced in JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, and PostgreSQL, with strong knowledge of Redux for state management and Prisma ORM for efficient database access. Skilled in designing RESTful APIs and modern, responsive UIs. Passionate about writing clean, maintainable code and delivering intuitive, high-performance user experiences while collaborating effectively in team environments.
 
 ```javascript
 const developer = {
+
   title: "Full Stack JavaScript Developer",
-  stack: ["MERN", "PERN"],
+
+  stack: ["MERN Stack", "PERN Stack", "Next.js"],
 
   languages: ["JavaScript", "TypeScript", "SQL"],
   
@@ -23,14 +25,6 @@ const developer = {
   },
 
   database: ["MongoDB", "PostgreSQL", "Redis"],
-
-  principles: [
-    "Clean Code",
-    "Scalable Architecture",
-    "Performance Optimization"
-  ],
-
-  mindset: "Problem Solver & Continuous Learner & Team Collaborator"
 };
 
 ```
