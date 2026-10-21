@@ -16,12 +16,13 @@ const developer = {
   frontend: {
     framework: ["React.js", "Next.js"],
     styling: ["Tailwind CSS", "shadcn/ui"],
+    forms: ["React Hook Form"],
   },
 
   backend: {
     runtime: "Node.js",
     framework: "Express.js",
-    api: "RESTful Services",
+    api: ["RESTful Services", "GraphQL"],
   },
 
   database: ["MongoDB", "PostgreSQL", "Redis"],
@@ -29,6 +30,13 @@ const developer = {
   stateManagement: ["Redux"],
 
   ORM: ["Prisma"],
+
+  validation: ["Zod"],
+
+  authentication: {
+    tokens: "JWT",
+    storage: "HTTP-only cookies",
+  },
 };
 ```
 
